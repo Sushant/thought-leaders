@@ -33,4 +33,5 @@ In case it isn't obvious, this is a joke. What's worse, it's riddled with inside
 * [Bryan Cantrill](twitter.com/bcantrill) - Enthusiasm, troff. 
 * [Brandon Burton](https://twitter.com/solarce) - Meme generation and proliferation, `init.d`.  
 * [Tim Anglade](https://twitter.com/timanglade) - NoSQL. 
-* [Peter Bailis](https://twitter.com/pbailis) - Ryan Gosling, The Apache Cassandra™ Jira. 
+* [Peter Bailis](https://twitter.com/pbailis) - Ryan Gosling, The Apache Cassandra™ Jira.
+* [Soren Macbeth](https://twitter.com/sorenmacbeth) - Charisma
